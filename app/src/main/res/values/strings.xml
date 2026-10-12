@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Example Application</string>
+
+    <string name="price_alerts_active_title">Active alerts</string>
+    <string name="price_alerts_empty">No active alerts</string>
+    <string name="price_alerts_target_above">Above %1$s</string>
+    <string name="price_alerts_target_below">Below %1$s</string>
+    <string name="price_alerts_last_price">Last price</string>
+    <string name="price_alerts_price_placeholder" translatable="false">—</string>
+    <string name="price_alerts_remove_alert">Remove %1$s alert</string>
+    <string name="price_alerts_triggered_above">%1$s rose above %2$s</string>
+    <string name="price_alerts_triggered_below">%1$s fell below %2$s</string>
+    <string name="price_alerts_dismiss_banner">Dismiss</string>
+    <string name="price_alerts_add_title">New alert</string>
+    <string name="price_alerts_instrument_label">Instrument</string>
+    <string name="price_alerts_target_label">Target price</string>
+    <string name="price_alerts_direction_above">Above</string>
+    <string name="price_alerts_direction_below">Below</string>
+    <string name="price_alerts_add_button">Add alert</string>
 </resources>
